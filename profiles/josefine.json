@@ -1,0 +1,329 @@
+{
+  "id": "63b23df3-a81e-400c-9a2a-3299a49d6637",
+  "overlordId": "6f1bedda-0002-45b1-a86b-3d34b4e91aca",
+  "profile": "Designer",
+  "profile_en": "Designer",
+  "expertise": [
+    {
+      "id": "33412a1f-37e3-4566-875a-4d78ca19877d",
+      "title": "Programming language",
+      "title_en": "",
+      "data": [
+        "c07a22a3-8eeb-4dca-ab34-d11bc44f9684",
+        "8c206233-3304-4c72-b975-1711c49432d6",
+        "abc98f15-4163-44dd-9616-a1ecd472fafe",
+        "3acc142f-1bd4-4aa6-9bad-902401024cc8",
+        "8d289131-197c-43dd-92ce-e836378d523c"
+      ],
+      "data_en": "C#",
+      "additionaljsonproperties": ""
+    },
+    {
+      "id": "695878ce-a7f7-4026-9224-af218d4a4105",
+      "title": "Management",
+      "title_en": "",
+      "data": [
+        "82e1013f-6c51-428b-b70e-3781e2483a0b",
+        "bc7a2856-f3f1-40f0-8ee1-20f92258304e"
+      ],
+      "data_en": "Agile",
+      "additionaljsonproperties": ""
+    },
+    {
+      "id": "d7e9f285-3164-43ba-b050-827379621904",
+      "title": "Web",
+      "title_en": "",
+      "data": [],
+      "data_en": "Vuejs",
+      "additionaljsonproperties": ""
+    },
+    {
+      "id": "7d3b0177-83b4-465e-b1bd-f30525a6710c",
+      "title": "Mobile platform",
+      "title_en": "",
+      "data": [
+        "ebfdae15-fbf6-4c03-990c-69e0e05a8eb2",
+        "b3be19bb-6623-4384-8fd7-0efa8582c324",
+        "15643b94-d3e7-484c-aa42-54b15879ec7b",
+        "cfbe3e33-4b84-45c9-a414-2dad580aa702",
+        "bfbaad59-572f-4869-99cf-c2bd248cb75f",
+        "99a39866-df00-458f-b055-0c0e181b2b55"
+      ],
+      "data_en": "IOS",
+      "additionaljsonproperties": ""
+    },
+    {
+      "id": "050e8991-ff0a-424f-b5ee-c60f16be4008",
+      "title": "Infastructures",
+      "title_en": "",
+      "data": [
+        "c07a22a3-8eeb-4dca-ab34-d11bc44f9684",
+        "8c206233-3304-4c72-b975-1711c49432d6"
+      ],
+      "data_en": "AWS",
+      "additionaljsonproperties": ""
+    },
+    {
+      "id": "6ef198a2-3e2d-420a-86c6-b1242c7db844",
+      "title": "Infastructure",
+      "title_en": "",
+      "data": [
+        "c07a22a3-8eeb-4dca-ab34-d11bc44f9684",
+        "8c206233-3304-4c72-b975-1711c49432d6",
+        "a0b97842-c63d-48c5-8272-d320fea6446b",
+        "cfbe3e33-4b84-45c9-a414-2dad580aa702"
+      ],
+      "data_en": "Cloud computing",
+      "additionaljsonproperties": ""
+    },
+    {
+      "id": "24848767-3b4a-4029-adef-c7bad0111e27",
+      "title": "Management",
+      "title_en": "",
+      "data": [],
+      "data_en": "Kanban",
+      "additionaljsonproperties": ""
+    }
+  ],
+  "experience": [
+    {
+      "id": "9fdc4aee-1dcc-4a00-ba30-0c15a15bff91",
+      "fromyear": 2021,
+      "frommonth": 1,
+      "toyear": 2021,
+      "tomonth": 5,
+      "title": "Testansvarlig",
+      "title_en": "",
+      "company": "Bølgeblikk AS",
+      "company_en": "",
+      "additionaljsonproperties": "",
+      "description": "",
+      "description_en": "",
+      "techs": [
+        {
+          "skillIdReference": "66c0f7ea-0eb5-4dd3-be75-f01b09c7b3ee",
+          "skillName": ".net"
+        },
+        {
+          "skillIdReference": "8fff72dd-9936-4f75-bcb8-8b89099e6fa7",
+          "skillName": "react"
+        }
+      ],
+      "techs_en": "",
+      "name": "OExperience{id=9fdc4aee-1dcc-4a00-ba30-0c15a15bff91, from_year='2021', from_month='1', to_year='2021', to_month='5', title='Testansvarlig', company='Bølgeblikk AS', techs='[{\"skillIdReference\":\"66c0f7ea-0eb5-4dd3-be75-f01b09c7b3ee\",\"skillName\":\".net\"},{\"skillIdReference\":\"8fff72dd-9936-4f75-bcb8-8b89099e6fa7\",\"skillName\":\"react\"}]', description=''}"
+    },
+    {
+      "id": "ffb31e27-1454-4fc8-a7ef-a6992bfc4fc7",
+      "fromyear": 2017,
+      "frommonth": 2,
+      "toyear": 2019,
+      "tomonth": 9,
+      "title": "Gartnerlærling",
+      "title_en": "",
+      "company": "Petter Landscaping AS",
+      "company_en": "",
+      "additionaljsonproperties": "",
+      "description": "Var gartnerlærling hvor jeg brukte java for å lage et automatisk AI-basert CAD sytem for å generere alternative automatiske løsninger for mini-gartneri for eplehager",
+      "description_en": "",
+      "techs": [
+        {
+          "skillIdReference": "e304f32d-7e33-4177-b700-1b29315b6a39",
+          "skillName": "java"
+        },
+        {
+          "skillIdReference": "c989c0ca-f12f-45fe-b402-97dfc14bdd3c",
+          "skillName": "project manager"
+        },
+        {
+          "skillIdReference": "ea8e47d1-266a-4ae0-8a13-1d06c2d5ebc6",
+          "skillName": "intellectual property"
+        },
+        {
+          "skillIdReference": "ebc16240-5f86-4e7d-b6e9-b8a02f75aa2a",
+          "skillName": "digital innovation & tmt"
+        },
+        {
+          "skillIdReference": "6c6b70d4-d6eb-42cc-8c90-fabd4659c157",
+          "skillName": "frontend development"
+        },
+        {
+          "skillIdReference": "8fff72dd-9936-4f75-bcb8-8b89099e6fa7",
+          "skillName": "react"
+        },
+        {
+          "skillIdReference": "66c0f7ea-0eb5-4dd3-be75-f01b09c7b3ee",
+          "skillName": ".net"
+        }
+      ],
+      "techs_en": "",
+      "name": "OExperience{id=ffb31e27-1454-4fc8-a7ef-a6992bfc4fc7, from_year='2017', from_month='2', to_year='2019', to_month='9', title='Gartnerlærling', company='Petter Landscaping AS', techs='[{\"skillIdReference\":\"e304f32d-7e33-4177-b700-1b29315b6a39\",\"skillName\":\"java\"},{\"skillIdReference\":\"c989c0ca-f12f-45fe-b402-97dfc14bdd3c\",\"skillName\":\"project manager\"},{\"skillIdReference\":\"ea8e47d1-266a-4ae0-8a13-1d06c2d5ebc6\",\"skillName\":\"intellectual property\"},{\"skillIdReference\":\"ebc16240-5f86-4e7d-b6e9-b8a02f75aa2a\",\"skillName\":\"digital innovation & tmt\"},{\"skillIdReference\":\"6c6b70d4-d6eb-42cc-8c90-fabd4659c157\",\"skillName\":\"frontend development\"},{\"skillIdReference\":\"8fff72dd-9936-4f75-bcb8-8b89099e6fa7\",\"skillName\":\"react\"},{\"skillIdReference\":\"66c0f7ea-0eb5-4dd3-be75-f01b09c7b3ee\",\"skillName\":\".net\"}]', description='Var gartnerlærling hvor jeg brukte java for å lage et automatisk AI-basert CAD sytem for å generere alternative automatiske løsninger for mini-gartneri for eplehager'}"
+    }
+  ],
+  "employer": [],
+  "education": [
+    {
+      "id": "856ac20a-fba8-4f27-b796-b2af428a5b0e",
+      "fromyear": 2005,
+      "frommonth": 10,
+      "toyear": 2009,
+      "tomonth": 7,
+      "description": "",
+      "description_en": "",
+      "school": "University of Queensland",
+      "additionaljsonproperties": "",
+      "degree": "Bachelor",
+      "fieldOfStudy": "International Politics"
+    },
+    {
+      "id": "2e28db5c-1c9c-46c4-84c4-e252dcf6e49c",
+      "fromyear": 2005,
+      "frommonth": 8,
+      "toyear": 2010,
+      "tomonth": 7,
+      "description": "Linje, fag.",
+      "description_en": "I learnt a lot",
+      "school": "University of Life",
+      "additionaljsonproperties": "",
+      "degree": "Master",
+      "fieldOfStudy": "Networks, engineering and algorithms"
+    },
+    {
+      "id": "653ade4e-add7-45d8-901b-c3541caa1dfe",
+      "fromyear": 1988,
+      "frommonth": 10,
+      "toyear": 1990,
+      "tomonth": 10,
+      "description": "",
+      "description_en": "",
+      "school": "Befalskolen for Marinen",
+      "additionaljsonproperties": "",
+      "degree": "Befal",
+      "fieldOfStudy": "Teknisk bransje, Elektronikk/Våpen-linja."
+    },
+    {
+      "id": "22d4e385-25d9-4a1d-9bf7-9b79ff766792",
+      "fromyear": 2000,
+      "frommonth": 8,
+      "toyear": 2006,
+      "tomonth": 7,
+      "description": "Linje, fag.",
+      "description_en": "",
+      "school": "UIO",
+      "additionaljsonproperties": "",
+      "degree": "Master",
+      "fieldOfStudy": "Master of Computer Science"
+    },
+    {
+      "id": "96308841-7993-4024-86f9-edf368f79569",
+      "fromyear": 2009,
+      "frommonth": 10,
+      "toyear": 2010,
+      "tomonth": 7,
+      "description": "Ingeniør i Elektronikk og Databehandling, retning Informatikk. ",
+      "description_en": "",
+      "school": "Høgskolesenteret i Rogaland",
+      "additionaljsonproperties": "",
+      "degree": "Ingeniør",
+      "fieldOfStudy": "Kandidatoppgave: Revisjonsstan"
+    },
+    {
+      "id": "dcd3348e-52fa-4d79-99d0-736a1435cefb",
+      "fromyear": 2011,
+      "frommonth": 8,
+      "toyear": 2015,
+      "tomonth": 7,
+      "description": "Linje, fag.",
+      "description_en": "Mossadsupported cyberware",
+      "school": "University of Telaviv",
+      "additionaljsonproperties": "",
+      "degree": "BA",
+      "fieldOfStudy": "Frontend footsoldier graduated"
+    },
+    {
+      "id": "589989ef-df8a-4424-8540-f2ab6ed89d12",
+      "fromyear": 1995,
+      "frommonth": 9,
+      "toyear": 1997,
+      "tomonth": 12,
+      "description": "Linje, fag.",
+      "description_en": "Mossadsupported cyberware",
+      "school": "NTNO",
+      "additionaljsonproperties": "",
+      "degree": "Master of Computer Science",
+      "fieldOfStudy": "Software development"
+    }
+  ],
+  "other": [],
+  "skill": [],
+  "status": {
+    "visibility_value": [
+      "faec12b7-c2f9-4dc9-bcfe-4bd6b00ab638"
+    ],
+    "visibility": "custom"
+  },
+  "_recent": true,
+  "name": "Josefine",
+  "title": "Designer",
+  "title_en": "Designer",
+  "contactinfo": {
+    "emails": [
+      {
+        "type": "Private",
+        "label": "",
+        "value": "alvin.lundh@example.com",
+        "primary": false,
+        "mail": "alvin.lundh@example.com"
+      },
+      {
+        "type": "Other",
+        "label": "",
+        "value": "kfddds@gmail.com",
+        "primary": false,
+        "mail": "kfddds@gmail.com"
+      }
+    ],
+    "phones": [
+      {
+        "type": "Home",
+        "label": "",
+        "value": "+4793274125",
+        "primary": false
+      },
+      {
+        "type": "Mobile",
+        "label": "",
+        "value": "+47937241254445",
+        "primary": false
+      }
+    ],
+    "online": [],
+    "addresses": [
+      {
+        "type": "home",
+        "label": "",
+        "value": "3862 Brannfjellveien",
+        "primary": false,
+        "streetAddress": "3862 Brannfjellveien",
+        "countryCode": "NO",
+        "postalCode": "3472",
+        "city": "Strømsnes",
+        "country": "Norway"
+      }
+    ]
+  },
+  "linkedin": "",
+  "phone": "74129563",
+  "mail": "alvin.lundh@example.com",
+  "image": "http://devtest.quadim.ai/api/filestore/viewPNG/3ddb3054-874a-4b3b-a3a6-63cdffd2b116",
+  "birthdate": "1978-06-13T23:00:00.000Z",
+  "lastEdited": "2021-09-10T07:20:47.314Z",
+  "createdAt": "2020-09-27T15:06:28.909Z",
+  "department": "",
+  "streetAddress": "3862 Brannfjellveien",
+  "countryCode": "NO",
+  "description": "Josefine does industrial design for a construction company to earn for a living, but she dreams of the day where she can make enough for a living by selling her paintings. \n",
+  "description_en": "Josefine does industrial design for a construction company to earn for a living, but she dreams of the day where she can make enough for a living by selling her paintings. ",
+  "postalCode": "3472",
+  "city": "Strømsnes",
+  "region": "Nordland"
+}
