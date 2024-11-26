@@ -1,4 +1,4 @@
-# Quadim-ProfileExportService
+# Api-ProfileExportService
 
 A module to support export of Quadim profiles for a selected UI-template to pdf-files.  The intention is to build this as a standalone Docker image to simplify deployments and vertical scaling when needed.
 
