@@ -89,7 +89,7 @@ See the document [TEMPLATE.md](TEMPLATE.md), or refer to https://github.com/chri
 
 ## Deploying
 
-We use github actions to deploy instances, `DEV`, `QA`, and `PROD`. You can view the action [here](https://github.com/quadimai/Quadim-ProfileExportService/blob/main/.github/workflows/aws.yml).
+We use github actions to deploy instances, `DEV`, `QA`, and `PROD`. You can view the action [here](https://github.com/quadimai/Api-ProfileExportService/blob/main/.github/workflows/aws.yml).
 
 ## Public IP DNS and instance health
 
@@ -97,18 +97,18 @@ You can access the various instances using these URLs
 
 ### Devtest
 ```shell
-curl http://PdfFargateALB-4705873.eu-central-1.elb.amazonaws.com:8080/health
+curl http://PdfFargateALB.elb.amazonaws.com:8080/health
 # {"Status": "ok", "Name": "profile-export-service", "Version": "0.2", "Ip": "172.17.0.2"}%
 ```
 ### Production
 
 We're using a load-balancer, so to talk to the service, and check its status
-use URL: `PdfFargateALB-746176996.eu-north-1.elb.amazonaws.com:8080/health`
+use URL: `PdfFargateALB.elb.amazonaws.com:8080/health`
 
 
 Check that `prod` is working:
 ```shell
-curl pdffargateALB-746176996.eu-north-1.elb.amazonaws.com:8080/health
+curl pdffargateALB.elb.amazonaws.com:8080/health
 # {"Status": "ok", "Name": "profile-export-service", "Version": "0.2", "Ip": "172.31.46.8"}%
 ```
 ## Docker
@@ -138,7 +138,7 @@ CMD ["/app/run.sh", "0.0.0.0", "2345"]
 ```
 The libreoffice server has a hardcoded address, but since its never communicated to directly I don't think this'll be an issue
 
-- https://github.com/quadimai/Quadim-ProfileExportService/blob/cf9e7acb1fd3877bb2c14c1cf7e499b858be7725/convert.py#L52
+- https://github.com/joedayz/Api-ProfileExportService/blob/cf9e7acb1fd3877bb2c14c1cf7e499b858be7725/convert.py#L52
 
 
 ## Troubleshooting
